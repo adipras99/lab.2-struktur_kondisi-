@@ -12,3 +12,8 @@ Berisi tentang tugas lab.2
 # Program menentukan Bilangan Terbesar dari 2 Bilangan
     Berikut Program yang akan saya tampilkan
 ![gambar 1](pic//pic1.png)
+    
+# Program untuk Menggurutkan Bilangan
+    Berikut Program yang akan saya tampilkan
+![gambar 2](pic//pic2.png)
+
