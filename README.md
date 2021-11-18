@@ -11,4 +11,5 @@ Berisi tentang tugas lab.2
 
 # Program menentukan Bilangan Terbesar dari 2 Bilangan
     Berikut Program yang akan saya tampilkan
-    ![img]pic//pic1.png
+    ![gambar 1](pic//pic1.png)
+    
